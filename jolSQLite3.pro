@@ -1,3 +1,7 @@
+# Original Source Code
+# https://www.sqlite.org/
+# https://www.sqlite.org/download.html
+
 TEMPLATE = lib
 CONFIG += dll
 CONFIG += console
@@ -60,3 +64,6 @@ UI_DIR = $$DESTDIR/.ui
 QMAKE_MAKEFILE = $$DESTDIR/Makefile
 MAKEFILE = $$DESTDIR/$$MyMakefile
 TARGET = $$DEPLOY_TARGET
+
+DISTFILES += \
+    README.md

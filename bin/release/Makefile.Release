@@ -52,7 +52,7 @@ SOURCES       = ..\src\shell.c \
 OBJECTS       = release/.obj/shell.o \
 		release/.obj/sqlite3.o
 
-DIST          =  src/sqlite3.h \
+DIST          = README.md src/sqlite3.h \
 		src/sqlite3ext.h ..\src\shell.c \
 		..\src\sqlite3.c
 QMAKE_TARGET  = jolSQLite3
