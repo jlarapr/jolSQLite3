@@ -4,7 +4,8 @@
 # jlarapr
 
 TEMPLATE = lib
-CONFIG += dll
+# CONFIG += dll
+CONFIG += staticlib
 CONFIG -= app_bundle
 CONFIG -= qt
 
