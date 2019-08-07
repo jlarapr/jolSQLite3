@@ -5,7 +5,6 @@
 
 TEMPLATE = lib
 CONFIG += dll
-CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
 

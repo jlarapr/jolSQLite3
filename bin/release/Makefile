@@ -234,13 +234,13 @@ release/Makefile: ../jolSQLite3.pro C:/Qt/5.13.0/mingw73_64/mkspecs/win32-g++/qm
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/resolve_config.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/exclusive_builds_post.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/default_post.prf \
-		C:/Qt/5.13.0/mingw73_64/mkspecs/features/win32/console.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/resources.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/qtquickcompiler.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/precompile_header.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/warn_on.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/qmake_use.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/file_copies.prf \
+		C:/Qt/5.13.0/mingw73_64/mkspecs/features/win32/windows.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/testcase_targets.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/exceptions.prf \
 		C:/Qt/5.13.0/mingw73_64/mkspecs/features/yacc.prf \
@@ -418,13 +418,13 @@ C:/Qt/5.13.0/mingw73_64/mkspecs/features/win32/default_pre.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/resolve_config.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/exclusive_builds_post.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/default_post.prf:
-C:/Qt/5.13.0/mingw73_64/mkspecs/features/win32/console.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/resources.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/qtquickcompiler.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/precompile_header.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/warn_on.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/qmake_use.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/file_copies.prf:
+C:/Qt/5.13.0/mingw73_64/mkspecs/features/win32/windows.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/testcase_targets.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/exceptions.prf:
 C:/Qt/5.13.0/mingw73_64/mkspecs/features/yacc.prf:
